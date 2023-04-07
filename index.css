@@ -4,7 +4,7 @@
 
 .thumb-text {
   background-image: url("./assets/Image-01.png");
-  height: 50vh;
+  height: 65vh;
   background-size: cover;
   background-position: center;
 }
@@ -13,7 +13,7 @@
   background-color: rgba(0, 0, 0, 0.5);
   color: white;
 
-  height: 30vh;
+  height: 35vh;
 }
 
 .thumb-text-3 {
@@ -29,7 +29,7 @@
 }
 
 .fun-text-h1{
-  color: #d4f058;
+  color: #fec35b;
 }
 
 .russo{
@@ -45,7 +45,7 @@
 }
 
 .laptop-img{
-  height: 150px;
+  height: 95px;
   margin-left: 35%;
 }
 
